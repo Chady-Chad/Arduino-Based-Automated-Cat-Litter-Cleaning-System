@@ -1,0 +1,5 @@
+1. When replacing switch/es, please ensure that when soldering wires to the pins of the SPDT switch, 
+you have to solder them to the common pin and the normal open pin.
+
+2. For LEDs, always attach a 1k resistor in series. Also, connect the ground of the LED to the Arduino ground, 
+whilst the positive (anode) pin of the LED is attached to either pin 7 or pin 13.

@@ -1,0 +1,15 @@
+Before uploading the code, 
+please include important library:
+"Servo.h"
+
+This library is already provided 
+in this file(zip files). Import this on Arduino 
+IDE <manage libraries>-import libraries. If your
+Arduino ide has already servo in library file,
+do not include this.
+
+For clarification and tutorial please 
+go to Youtube and search the link below: 
+
+1.  https://www.youtube.com/watch?v=VvE4KLt49OM&pp=ygUkaG93IHRvIGluY2x1ZGUgbGlicmFyaWVzIGluIGFyZHVpbm8g
+2.  https://www.youtube.com/watch?v=Glt-p6TBHk0&pp=ygUkaG93IHRvIGluY2x1ZGUgbGlicmFyaWVzIGluIGFyZHVpbm8g
